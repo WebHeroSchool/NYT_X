@@ -1,0 +1,35 @@
+.header {
+  font-family: Helvetica;
+}
+
+.menu {
+  font-family: Helvetica;
+}
+
+.newspaper__title {
+  font-family: Arial;
+  text-align: center;
+}
+
+.menu__item {
+  font-family: Helvetica;
+}
+
+.main__section {
+  font-family: Helvetica;
+}
+
+.article__major {
+  font-family: Helvetica;
+}
+
+.main-content__title {
+  font-family: Helvetica;
+}
+
+.main-content__description {
+  font-family: Arial;
+}
+.main-content__article {
+  font-family: Arial;
+}
